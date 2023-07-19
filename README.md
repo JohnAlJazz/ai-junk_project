@@ -1,3 +1,3 @@
-## Online Course emulator
+## Online Course Emulator
 
 run npm install and then npm start
